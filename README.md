@@ -1,6 +1,6 @@
 # contact-book-laravel
 
-I have laready made this project using PHP but after learning basic CRUD operation of laravel, I have made this project using Laravel..
+I have already made this project using PHP but after learning basic of laravel and its CRUD operations, I have made this project using Laravel..
 
 About the project,
 - -> User can register and login his self
